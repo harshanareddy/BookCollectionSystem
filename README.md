@@ -1,5 +1,5 @@
 # BookCollectionSystem
-A charming Java-based command-line interface (CLI) application designed to help book lovers like me organize, track, and update their personal library! 
+A charming Java-based command-line interface (CLI) application designed to help book worms like me organize, track, and update their personal library! 
 
 This project lets users add books with meaningful details like genre, rating, angsty vibes, and whether they’d reread it. 
 Built with pure Java and a love for storytelling, it's my way of blending tech with the comfort of books.
